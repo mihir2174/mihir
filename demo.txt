@@ -1,0 +1,33 @@
+1- Initialize a new repository. Add two files in your working directory.
+   -command git init
+
+2- View the status of the working directory and the staging area.
+   -command git status
+
+3- Stage both files.
+   -command git commit -m "message"
+
+
+4- View the changes in the staging area.
+   -command git diff --staged
+
+5- Create a commit.
+   -commaand git add .
+
+
+6- View the list of commits.
+   -command git log
+
+
+7- View the content of the last commit.
+   -command git HEAD
+
+8- Update one of the files. View the changes in the working directory
+   -command git deep
+
+9- Stage the changes.
+   -command git add .
+
+
+10- Unstage the file.
+   -command git restore --staged new text document 
